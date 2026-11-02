@@ -25,5 +25,3 @@ Tools Used
 Arduino IDE
 ESP32
 PicoScope
-Results
-savayi
