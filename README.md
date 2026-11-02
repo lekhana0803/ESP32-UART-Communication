@@ -25,11 +25,5 @@ Tools Used
 Arduino IDE
 ESP32
 PicoScope
-
 Results
-
-Add actual test results, serial monitor screenshots and hardware photographs here.
-
-Author
-
-Lekhana Vatsavayi
+savayi
